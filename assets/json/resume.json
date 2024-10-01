@@ -1,36 +1,36 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "John Chenxi Song",
+    "label": "Research Asistant | Network and System Administrator | Software Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "email": "chs342[at]pitt[dot]edu",
+    "summary": "Web Technology | LLMs | Machine Learning & Deep Learning | Data Visualization"
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Reformed Presbyterian Theological Seminary",
+      "position": "Network and System Administrator & Learning Management",
+      "url": "https://rpts.edu/",
+      "startDate": "2024-02-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": ["Install, configure, and maintain the school’s local area network (LAN), wide area network (WAN), operating systems <b>(Windows/Ubuntu/Linux Mint)</b>, and physical and virtual servers (Hybrid with Azure)",
+      "Perform system <b>monitoring network over 200 connections</b>, server resources and systems over 40 PCs.",
+      "Analyze data from 300 students, implement visualizations to uncover key insights, optimized office software to <b>achieve $3,000 in annual saving</b>, and developed automated workflows to reduce processing time by 20%.",
+      "Established an IT department inventory and ticketing system, centralizing asset management and streamlining issue tracking, resulting in improved resource allocation and enhanced accountability."]
+    },
+    {
+      "name": "School of Medicine, University of Pittsburgh",
+      "position": "ML Research Assistant",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "startDate": "2023-03-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": ["<b>Implement multi-source models based on research papers’ pseudocode</b> and two Java libraries (Weka & Smile) to diagnose influenza and <b>increase 2% accuracy </b>comparing to existing single source model prediction.",
+      "<b>Supervised 2 undergrads summer interships</b>, providing coding guidance in Python for research projects.",
+      "Led a Medical Image Processing project, <b>managing 50GB of data for preprocessing</b>, and utilizing a pre-trained large model (Prov-GigaPath) to extract features for cancer diagnosis.",
+      "Guided the development of a project using a Large Language Model(LLM) to diagnose influenza, <b>including designing CoT prompt templates</b> for effective analysis.",
+      "Deployed a Llama3-8B model locally on a 25GB GPU, ensuring data privacy and security for sensitive medical research."]
     }
   ],
   "volunteer": [
