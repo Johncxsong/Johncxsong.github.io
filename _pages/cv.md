@@ -4,8 +4,8 @@ permalink: /cv/
 title: Curriculum Vitae
 nav: true
 nav_order: 1
-cv_pdf: example_pdf.pdf
-description: Web Technology | LLMs | Machine Learning & Deep Learning | Data Visualization
+cv_pdf: John_Song_2024.pdf
+description: Research Assisant | Network and System Administorator | Software Engineering
 toc:
   sidebar: left
 ---
