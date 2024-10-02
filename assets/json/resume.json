@@ -126,7 +126,7 @@
       "highlights": ["Large Language Model", "CoT Prompting", "Natural Language Processing"],
       "startDate": "2024-06-01",
       "endDate": "2024-09-01",
-      "url": "https://example.com"
+      "url": "https://johncxsong.github.io/projects/LLM/"
     },
     {
       "name": "Exploring the Integration Potential of Foundational Models (Prov-GigaPath) with the National Mesothelioma Virtual Bank",
@@ -134,7 +134,7 @@
       "highlights": ["Pre-train Models", "Computer Vision", "Image Embedding"],
       "startDate": "2024-04-01",
       "endDate": "2024-08-01",
-      "url": "https://example.com"
+      "url": "https://johncxsong.github.io/projects/Prov-gigapath/"
     },
     {
       "name": "Bayesian Network Transfer Learning",
@@ -142,7 +142,7 @@
       "highlights": ["Bayesian Network", "Tree Graph", "Classification"],
       "startDate": "2023-03-01",
       "endDate": "2023-12-01",
-      "url": "https://example.com"
+      "url": "https://johncxsong.github.io/projects/BNTL/"
     },
     {
       "name": "Web Application",
