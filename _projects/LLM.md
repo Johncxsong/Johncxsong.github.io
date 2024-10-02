@@ -4,7 +4,7 @@ title: Disease Surveillance Using LLM
 description: Probabilistic Disease Surveillance Using Large Language Model
 img: assets/img/LLMback.png
 importance: 1
-category: work
+category: Professional
 related_publications: false
 ---
 

@@ -4,7 +4,7 @@ title: Exploring the Integration Foundational Model
 description: Exploring the Integration Potential of Foundational Models (Prov-GigaPath) with the National Mesothelioma Virtual Bank
 img: assets/img/provgiagapthback.png
 importance: 2
-category: work
+category: Professional
 related_publications: false
 ---
 Authors: Karthika Venugopalan, **John** Chenxi Song, Yuhe Gao, Yingci Liu <br>

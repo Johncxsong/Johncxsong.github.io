@@ -2,16 +2,16 @@
 layout: about
 title: About
 permalink: /
-subtitle: Research Assisant | Network and System Administorator | Software Engineering
+subtitle: <strong>Research Assisant | Network and System Administorator | Software Engineering</strong>
 
 profile:
   align: right
   image: John.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <a href="#">email</a>
-    <a href="#">github</a>
-    <a href="#">Linkined</a>
+    <a href="cv/#basics-1"><i class="fa fa-address-card" style="font-size:24px"></i></a>
+    <a href="https://github.com/Johncxsong"><i class="fa-brands fa-github" style="font-size:24px"></i></a>
+    <a href="https://www.linkedin.com/in/johnsongchs"><i class="fa-brands fa-linkedin" style="font-size:24px"></i></a>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

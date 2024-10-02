@@ -4,7 +4,7 @@ title: BNTL-Multi-Sources
 description: Bayesian Network Transfer Learning (BN-TL) algorithm to re-use of source model through multiple data sources
 img: assets/img/BNTL.png
 importance: 3
-category: work
+category: Professional
 related_publications: false
 ---
 **This package is in private, and please contact author to get package.**
