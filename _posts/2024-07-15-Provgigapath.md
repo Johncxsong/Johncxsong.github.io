@@ -10,7 +10,6 @@ related_posts: false
 ---
 
 
-
 {::nomarkdown}
 {% assign jupyter_path = 'assets/jupyter/whole_slide_beginning.ipynb' | relative_url %}
 {% capture notebook_exists %}{% file_exists assets/jupyter/whole_slide_beginning.ipynb %}{% endcapture %}
