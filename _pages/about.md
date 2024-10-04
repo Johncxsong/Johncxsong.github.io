@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <strong>Research Assisant | Network and System Administorator | Software Engineering</strong>
+subtitle: <strong>Research Assistant | Network and System Administorator | Software Engineering</strong>
 
 profile:
   align: right
@@ -12,13 +12,15 @@ profile:
     <a href="cv/#basics-1"><i class="fa fa-address-card" style="font-size:24px"></i></a>
     <a href="https://github.com/Johncxsong"><i class="fa-brands fa-github" style="font-size:24px"></i></a>
     <a href="https://www.linkedin.com/in/johnsongchs"><i class="fa-brands fa-linkedin" style="font-size:24px"></i></a>
+    <a href="https://scholar.google.com/citations?user=bAmadNwAAAAJ&hl=en"><i class="fa-brands fa-google-scholar" style="font-size:24px"></i></a>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hello! I'm John Song, a Master's graduate in Information Science with two years of research experience in bioinformatics. I've developed a Java-based Bayesian Network Model for flu diagnosis and contributed to projects involving AI and machine learning, including prompt design for large language models and pathology image analysis using pre-trained models. I'm passionate about leveraging AI to revolutionize healthcare by reducing costs and making personalized AI healthcare assistants accessible to everyone. I'm now applying for a PhD in Computer Science to further this vision.
+
+>Hello! I'm John Song, a Master's graduate in Information Science with two years of research experience in bioinformatics. I've developed a Java-based Bayesian Network Model for flu diagnosis and contributed to projects involving AI and machine learning, including prompt design for large language models and pathology image analysis using pre-trained models. I'm passionate about leveraging AI to revolutionize healthcare by reducing costs and making personalized AI healthcare assistants accessible to everyone. I'm now applying for a PhD in Computer Science to further this vision.
 
 ##### My Journey
 - **Bayesian Network Modeling in Java**
