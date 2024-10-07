@@ -8,7 +8,7 @@ middle_name: Chenxi
 last_name: Song
 email: you@example.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Welcome to John Song world! 
+  Welcome to John Song world!
 footer_text: >
 keywords: jekyll, Machine Learning, John Song, Chenxi Song, PhD # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
