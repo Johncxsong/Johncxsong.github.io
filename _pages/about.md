@@ -20,10 +20,6 @@ social: false # includes social icons at the bottom of the page
 ---
 
 
-> Currently, pursuing a PhD in Computer Science or Bio-Informatics field.
-{: .block-tip }
-
-
 Hello! I'm John Song, a Master's graduate in Information Science with two years of research experience in bioinformatics. I've developed a Java-based Bayesian Network Model for flu diagnosis and contributed to projects involving AI and machine learning, including prompt design for large language models and pathology image analysis using pre-trained models. I'm passionate about leveraging AI to revolutionize healthcare by reducing costs and making personalized AI healthcare assistants accessible to everyone.
 
 ##### My Journey
