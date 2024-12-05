@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hello! I'm John Song, a Master's graduate in Information Science with two years of research experience in bioinformatics. I've developed a Java-based Bayesian Network Model for flu diagnosis and contributed to projects involving AI and machine learning, including prompt design for large language models and pathology image analysis using pre-trained models. I'm passionate about leveraging AI to revolutionize healthcare by reducing costs and making personalized AI healthcare assistants accessible to everyone.
+Hello! I'm John Song, a Master's graduate in Information Science with 1.5+ of research experience in bioinformatics. I've implemented a Java-based Bayesian Network Model for flu diagnosis and contributed to projects involving AI and machine learning, including prompt design for large language models and pathology image analysis using pre-trained models. I'm passionate about leveraging AI to benefit to everyone.
 
 ##### My Journey
 - **Bayesian Network Modeling in Java**
@@ -35,7 +35,7 @@ Contributed to pathology projects by supporting code development for analyzing w
 As a research assistant in the bioinformatics department, I handled preprocessing of unstructured data (text, whole slide images) and tabular data (CSV files), efficiently uploading and organizing them into SQL databases.
 
 ##### My Vision
-- I'm a firm believer that AI has the power to revolutionize healthcare by reducing costs and making personalized AI healthcare assistants accessible to everyone. By democratizing medical knowledge, we can empower individuals and make quality healthcare a universal reality.
+- The rapid advancement of AI techniques, such as LLMs and machine learning models, has unlocked new possibilities in AI-driven scientific research (AI4Science). I am eager to investigate foundational structures, gain a deep understanding of the underlying theories, and expand the frontiers of AI research to drive societal progress.
 
 ##### What's Next?
-- I'm currently applying for a PhD in Computer Science or Bioinformatics to further my research in AI-driven healthcare solutions. My goal is to continue pushing the envelope in AI, machine learning, and large language models to create innovative tools that benefit everyone.
+- I'm currently applying for a PhD in Computer Science to further my research in AI-driven solutions. My goal is to continue pushing the envelope in AI, machine learning, and large language models to create innovative tools that benefit everyone.
